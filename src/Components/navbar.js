@@ -9,6 +9,7 @@ export default function Navbar () {
           <a href="#about" className="ml-3 mr-3 text-xl"> Camila Mansilla </a>          
        </a>
          <img src="./cmlogo.png" width="35px" height="35px" className="mr-3"/>
+      
         <a  title="linkedin"href="https://www.linkedin.com/in/camila-mans/"> <img src="https://icon-library.com/images/linkedin-icon-png-black/linkedin-icon-png-black-17.jpg" 
           width="40px" height="40px" /> </a>
         <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-700	flex flex-wrap items-center text-base justify-center">
