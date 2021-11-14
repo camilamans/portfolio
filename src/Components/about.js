@@ -5,7 +5,7 @@ export default function About () {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Camila.
-            <br className="hidden lg:inline-block" />I love to create web apps.
+            <br className="hidden lg:inline-block" />I love creating web apps.
           </h1>
           <p className="mb-8 leading-relaxed">
              I am starting my carrer in Fullstack Web Development (FrontEnd/ NodeJS) and I really want to grow professionally in this new area. I am reskilling to achieve job stability, this challenge motivates me to continue learning and studying everyday. I've discovered coding in my early thirties, and now I don't want to stop creating and developing web sites. Also, due to my background as a dance teacher, achieving good interpersonal relationships is one of my best skills. 
