@@ -51,10 +51,11 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
+  "JavaScript-ECMAScript6+",
+  "HTML5/CSS3",
   "React",
-  "Next.js",
-  "Node",
-  "Progresive Web App",
-  "HTML/CSS",
+  "Firebase",
+  "NodeJS",
+  "Java",
+  
 ];
